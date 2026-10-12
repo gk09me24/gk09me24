@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:875A7B&height=220&section=header&text=Gautam%20Kundaria&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Odoo%20Techno-Functional%20Consultant%20%26%20ERP%20Developer&descAlignY=56&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:875A7B&height=220&section=header&text=Gautam%20Kundaria&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Odoo%20Techno-Functional%20Consultant%20%7C%20ERP%20Developer&descAlignY=56&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=875A7B&center=true&vCenter=true&width=820&lines=5%2B+years+turning+complex+workflows+into+clean+Odoo;Odoo+v12+%E2%86%92+v19+Migrations+with+Zero+Data+Loss;Custom+Modules+%7C+POS+%7C+MRP+%7C+Accounting;API+%26+Third-Party+Integrations;Docker+%7C+Kubernetes+%7C+Odoo.sh+%7C+CI%2FCD"/>
 
